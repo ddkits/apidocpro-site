@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ApiDocPro">
+  <defs>
+    <linearGradient id="g" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a997ff"/><stop offset="1" stop-color="#50e4c2"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="17" fill="#0c101b"/>
+  <path d="M18 18h20l9 9v19H18V18Z" fill="none" stroke="url(#g)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M38 18v10h9M25 34h15M25 41h10" fill="none" stroke="url(#g)" stroke-width="4" stroke-linecap="round"/>
+</svg>
